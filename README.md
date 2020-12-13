@@ -2,4 +2,4 @@
 
 A Meal App with recipes
 
-![](bmi.gif)
+![](meal_app.gif)
